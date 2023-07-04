@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning my Bachelors Degree in Commerce
 - 💞️ I’m looking to collaborate on Data analytics Projects
 - 📫 How to reach me www.linkedin.com/in/
-sanketh-kt-553b03222
+
 
 
 
